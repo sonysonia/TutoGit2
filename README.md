@@ -4,3 +4,7 @@ the first one is use as taking a repository from my GitHUb account to my local m
 
 # explanation
    After finish work on the project, in able to push it on GitHub, i have to create first a new repo on GitHub and use the command (git remote add origin "link of my new repo copied on GitHub" ) on my Terminal vscode and to see if it gone well, i use the command "git remote -v" 
+
+# new branches
+  # branch feature
+   It's possible to create another branch call feature,switch on it and work without modified the repo on the branch master witch is the origin branch. so i can do that to work a part easily.
